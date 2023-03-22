@@ -19,3 +19,7 @@ npm start => to start the server => download "Expo go" mobile app to see link wi
 (if this doesn't work, the alternative method is to run command "npm install -g expo-cli" and then run "expo-cli start --tunnel")
 
 while building app, if mobile app crushes, and no error inside code, press 'r' inside command line to reload mobile app, sometimes reload few times the error will go.
+
+npm install -g expo-cli
+
+expo pulish
