@@ -1,5 +1,7 @@
 # First React Native Mobile App practice, a Job Finder!
 
+# Link via: https://expo.dev/@caspar_expo/react-native-job-finder?serviceType=classic&disstribution=expo-go (Can only open via Android 'Expo Go' app)
+
 start with Expo Router
 
 https://expo.github.io/router
@@ -23,3 +25,5 @@ while building app, if mobile app crushes, and no error inside code, press 'r' i
 npm install -g expo-cli
 
 expo pulish
+
+![react-native-jobsearch](https://user-images.githubusercontent.com/108163945/226821406-bca5eee9-092d-4a61-ac32-c6a8861046ae.png)
